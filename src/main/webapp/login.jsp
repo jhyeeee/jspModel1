@@ -20,7 +20,7 @@
 
 <h2>Login page</h2>
 <div class="center">
-	<form action="LoginAf.jsp" method="post">
+	<form action="loginAf.jsp" method="post">
 		<table border = "1">
 			<tr>
 				<th>아이디</th>
